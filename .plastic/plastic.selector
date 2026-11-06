@@ -1,0 +1,3 @@
+repository "DiscoBeat/DiscoBeatRepository@1375795814736@cloud"
+  path "/"
+    smartbranch "/main/Juanjo/Adri2"

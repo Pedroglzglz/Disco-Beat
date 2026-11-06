@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227088e675ca946fd876e523b86d6ae1, type: 3}
+  m_Name: BossReggae_DialogueData
+  m_EditorClassIdentifier: 
+  npcID: 7
+  beforeItemSlides:
+  - dialogueText: "\xA1Ufff...! No puedo..."
+    showChoices: 0
+  - dialogueText: "Estoy mazo rallado, hermano. Me vibra el alma al rev\xE9s."
+    showChoices: 0
+  - dialogueText: "\xBFHas visto mi puchito de la paz? Sin \xE9l, no soy nadie..."
+    showChoices: 0
+  - dialogueText: "Enserio, t\xEDo... Cons\xEDgueme uno y hablamos..."
+    showChoices: 0
+  afterItemSlides:
+  - dialogueText: "\xA1Ohhhhh hermano...! \xA1Qu\xE9 bendici\xF3n!"
+    showChoices: 0
+  - dialogueText: "Esto s\xED que es buena vibra. Ahora siento que floto sobre la
+      arena..."
+    showChoices: 0
+  - dialogueText: "Eres un alma noble, t\xEDo. Gracias por esto."
+    showChoices: 0
+  - dialogueText: "Ya que estamos tan en sinton\xEDa... \xBFpor qu\xE9 no lo resolvemos
+      como los grandes?"
+    showChoices: 0
+  - dialogueText: "T\xFA y yo... un duelo de ritmo... a la luz del sol. "
+    showChoices: 1
+  npcSprite: {fileID: 21300000, guid: 462764a94d8be0248b0be9747f045a39, type: 3}
+  sceneToLoad: EscenaMastilReggae
+  rewardObjectName: Sello Reggae
+  rewardObjectID: 8

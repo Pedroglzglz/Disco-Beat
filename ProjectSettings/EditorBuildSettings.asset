@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ScenesJuanjo/MainMenu.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/IntroductionScene/Introduction.unity
+    guid: 5212df4b731444414b289dc71302691b
+  - enabled: 1
+    path: Assets/ScenesJuanjo/SceneAdri.unity
+    guid: 399a77d891d7741ed84dd587100d8112
+  - enabled: 1
+    path: Assets/ScenesJuanjo/EscenaMastilTutorialCompleto.unity
+    guid: a809d6ea9b418c1418210420421dd211
+  - enabled: 1
+    path: Assets/ScenesJuanjo/EscenaMastilRap.unity
+    guid: cbde1ba899caaa74cbc38e7238d627ef
+  - enabled: 1
+    path: Assets/ScenesJuanjo/EscenaMastilRock.unity
+    guid: af867e6a7667695449c42a2e1b79ac44
+  - enabled: 1
+    path: Assets/ScenesJuanjo/EscenaMastilReggae.unity
+    guid: f2a31bcc69c60cb44a4514366095f6e8
+  - enabled: 1
+    path: Assets/ScenesJuanjo/Agradecimientos.unity
+    guid: 05f469b2d0b6f4cd8a7d004b6d82db75
+  m_configObjects: {}

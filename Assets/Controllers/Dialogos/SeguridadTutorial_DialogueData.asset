@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227088e675ca946fd876e523b86d6ae1, type: 3}
+  m_Name: SeguridadTutorial_DialogueData
+  m_EditorClassIdentifier: 
+  npcID: 0
+  beforeItemSlides:
+  - dialogueText: "Alto ah\xED. \xBFT\xFA qui\xE9n eres?\r\n"
+    showChoices: 0
+  - dialogueText: "Aqu\xED solo entra el que tenga m\xE1s ritmo que el beat de Dr.
+      Dre.\r\n"
+    showChoices: 0
+  - dialogueText: "Si quieres pasar... \xA1g\xE1nale al chaval de la fila en un duelo
+      de ritmo!"
+    showChoices: 0
+  afterItemSlides:
+  - dialogueText: "Uff... no me lo creo. \xBFHas ganado?\r\n"
+    showChoices: 0
+  - dialogueText: 'Vale, tronco, entra... pero sin movidas.
+
+'
+    showChoices: 0
+  npcSprite: {fileID: 21300000, guid: 0c6a93b712e0b454d99e8e3ab812667b, type: 3}
+  sceneToLoad: 
+  rewardObjectName: 
+  rewardObjectID: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227088e675ca946fd876e523b86d6ae1, type: 3}
+  m_Name: LadronCadena_DialogueData
+  m_EditorClassIdentifier: 
+  npcID: 6
+  beforeItemSlides:
+  - dialogueText: "\xBFQu\xE9 miras, payaso? \xBFBuscas bronca o qu\xE9?\r\n"
+    showChoices: 0
+  - dialogueText: "\xBFVienes por esta cadena? \xA1Pues tendr\xE1s que gan\xE1rtela!\"\r\n"
+    showChoices: 1
+  afterItemSlides:
+  - dialogueText: "Maldito... \xA1era m\xEDa, t\xEDo! \xA1Te vas a arrepentir de
+      hab\xE9rtela llevado!\r\n"
+    showChoices: 0
+  npcSprite: {fileID: 21300000, guid: ee2ce0b73840b4af8832f869f558bbcc, type: 3}
+  sceneToLoad: EscenaMastilTutorialCompleto
+  rewardObjectName: Cadena
+  rewardObjectID: 1
